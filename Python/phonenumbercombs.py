@@ -1,5 +1,4 @@
 # https://leetcode.com/problems/letter-combinations-of-a-phone-number/
-# not my solution
 
 digits = '23'
 
